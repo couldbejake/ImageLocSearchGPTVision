@@ -3,10 +3,12 @@ If you want to work on this.
 - Start from the center of a mobile phone screen.
 
 while cursor is not at button position:
+  - overlay a cursor ontop of the image
   - Ask GPT Left, Right, Up or Down
   - ex. GPT says Left
   - Go half way left
 
+  - overlay a cursor ontop of the image
   - Ask GPT Left, Right, Up or Down
   - ex. GPT Says Right
   - Go half of the half way right
