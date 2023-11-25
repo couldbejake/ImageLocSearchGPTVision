@@ -14,3 +14,7 @@ while cursor is not at button position:
   - Go half of the half way right
 
   - position found!
+
+
+simpler solution (void and null), split the image into sections.
+super impose the grid, and ask gpt which square the item is in
