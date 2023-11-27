@@ -21,3 +21,5 @@ super impose a red grid over the image, and ask gpt which square the item is in.
 Possibly use a combination of both to get accurate results.
 
   <img src="https://github.com/couldbejake/ImageLocSearchGPTVision/blob/main/image.png?raw=true" alt="logo" width="550" height="auto" />  
+  <img src="https://github.com/couldbejake/ImageLocSearchGPTVision/blob/main/image2.png?raw=true" alt="logo" width="550" height="auto" />  
+  
