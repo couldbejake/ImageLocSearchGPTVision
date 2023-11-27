@@ -17,4 +17,5 @@ while cursor is not at button position:
 
 
 simpler solution (void and null), split the image into sections.
-super impose the grid, and ask gpt which square the item is in
+super impose a red grid over the image, and ask gpt which square the item is in.
+Possibly use a combination of both to get accurate results.
